@@ -46,7 +46,8 @@ A disciplina aborda os seguintes tópicos:
 
 ## 🚀 Como Executar os Exemplos
 1. Clone este repositório:
-  ```bash git clone https://github.com/MarcosF-Souza/Aulas3DAW.git
+ 
+  git clone https://github.com/MarcosF-Souza/Aulas3DAW.git
    
   Configure um servidor local (XAMPP, WAMP, ou LAMP) e aponte para a pasta do projeto.
 
